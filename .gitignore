@@ -1,0 +1,4 @@
+src/logs
+*.pyc
+.idea/
+.ipynb_checkpoints/
