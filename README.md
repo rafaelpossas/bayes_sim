@@ -61,5 +61,4 @@ The content of this repository is licensed under the Creative Commons Attributio
 ```
 
 ### Running the demo
-1. Run the parameter_inference.ipynb in the root directory
-2. For more details of the functions in the notebook go to src/franka_param_inference.py
+1. Run the pendulum_param_inference.py in the root directory for a simple example
