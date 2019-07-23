@@ -29,13 +29,13 @@ methods that randomize based on uniform priors.
 
 ### License
 
-BayesSim is released under the MIT License.
+BayesSim is released under the Creative Commons License, see license.txt for more details
 
 ### Installation
 
 1. Install [Tensorflow](https://www.tensorflow.org/).
 
-2. Install [DELFI](https://github.com/mackelab/delfi)
+2. Install [DELFI](https://github.com/mackelab/delfi) 0.5.1
 
 3. Install Numpy and SKLearn
 
@@ -45,6 +45,14 @@ BayesSim is released under the MIT License.
 - Python 3.6
 - CUDA 9.1
 
+### Paper:
+@inproceedings{ramos2019rss:bayessim,
+ author = {Fabio Ramos and Rafael Possas and Dieter Fox},
+ title = {BayesSim: adaptive domain randomization via probabilistic inference for robotics simulators},
+ booktitle = {Robotics: Science and Systems (RSS)},
+ url = "https://arxiv.org/abs/1906.01728",
+ year = 2019
+}
 ### Running the demo
 1. Run the parameter_inference.ipynb in the root directory
 2. For more details of the functions in the notebook go to src/franka_param_inference.py
