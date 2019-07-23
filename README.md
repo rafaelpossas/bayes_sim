@@ -37,7 +37,11 @@ The content of this repository is licensed under the Creative Commons Attributio
 
 2. Install [DELFI](https://github.com/mackelab/delfi) 0.5.1
 
-3. Install Numpy and SKLearn
+3. Install [OpenAI-Gym](https://github.com/openai/gym)
+
+4. Install [Stable-Baselines](https://stable-baselines.readthedocs.io/en/master/guide/install.html)
+
+4. Install Numpy and SKLearn
 
 
 ### Required environment
