@@ -46,7 +46,7 @@ The content of this repository is licensed under the Creative Commons Attributio
 - CUDA 9.1
 
 ### Paper:
-'''
+
 @inproceedings{ramos2019rss:bayessim,
  author = {Fabio Ramos and Rafael Possas and Dieter Fox},
  title = {BayesSim: adaptive domain randomization via probabilistic inference for robotics simulators},
@@ -54,7 +54,7 @@ The content of this repository is licensed under the Creative Commons Attributio
  url = "https://arxiv.org/abs/1906.01728",
  year = 2019
 }
-'''
+
 ### Running the demo
 1. Run the parameter_inference.ipynb in the root directory
 2. For more details of the functions in the notebook go to src/franka_param_inference.py
