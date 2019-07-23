@@ -29,7 +29,7 @@ methods that randomize based on uniform priors.
 
 ### License
 
-BayesSim is released under the Creative Commons License, see license.txt for more details
+The content of this repository is licensed under the Creative Commons Attribution Share Alike 4.0 License.
 
 ### Installation
 
